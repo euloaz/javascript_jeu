@@ -35,7 +35,7 @@ Pour me partager votre dépot , forker mon dépot de la foad et ajouter votre ur
 
 ##  Mon url du jeu
 
-Mettre son l'url de votre dépot github.
+[Mettre son l'url de votre dépot github.](https://euloaz.github.io/jeu_JS_eau_feu_terre/)
 
 ## Jeu en javascript
 
